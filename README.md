@@ -5,7 +5,7 @@
 - resources: Este directorio contiene los recursos estáticos del proyecto, como archivos de configuración, imágenes y archivos HTML.
 - target: Este directorio contiene los archivos compilados del proyecto.
 
-![image](https://github.com/123bry/Web_API_CascoBryan/assets/99741524/60ba78a4-47ae-4194-bc97-fab4b08159b0)
+ ![image](https://github.com/123bry/Web_API_CascoBryan/assets/99741524/60ba78a4-47ae-4194-bc97-fab4b08159b0) 
 
 ## Funcionalidades
 
