@@ -22,7 +22,7 @@ public class LibroController {
     @Autowired
     private LibroService libroService;
 
-    @GetMapping("/Hola_libros")
+    @GetMapping("/Nuevo_libro")
     public List<Libro> getLibros() {
         List<Libro> libros = new ArrayList<>();
         libros.add(new Libro(1, "Cien años de Soledad", "Gabriel Garcia Marquez", "Sudamericana"));
